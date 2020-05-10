@@ -4,3 +4,9 @@
 A VPC 
 
 ## KMS lab 
+
+Here's an image of a drag racer in action:
+
+![Drag Racing](images/Dragster.jpg)
+
+Move along.
